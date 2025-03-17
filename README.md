@@ -64,7 +64,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any queries, reach out to me via:
-1. my GitHub profile: [Aswathi-Biju](https://github.com/Aswathi-Biju).
-2. my Gmail id: [ASWATHI BIJU](aswathibiju2028@cs.sjcetpalai.ac.in).
-
+📧 Email: aswathibiju2028@cs.sjcetpalai.ac.in
+🐙 GitHub: Aswathi-Biju
 🚀 **Happy Coding & Stay Secure!**
